@@ -2,9 +2,13 @@
 ![Header Image](https://github.com/adhokshaja/Adhokshaja/blob/master/Images/cover.png)
 
 ### Hi there 👋. 
-I'm Adok. I currently work as an Applications Developer III at the [USF Water Institute](https://waterinstitute.usf.edu). I use this account primarily for small personal projects and academic projects. You can check out the organization's projects [here](https://github.com/USF-Water-Institute).
+I'm Adok. I currently work as a Software Development Engineer II for Alexa AI at Amazon. I use this account primarily for small personal projects and academic projects.
 
-👨🏾‍💻 Current Tech Stack: C#.NET, JavaScript, Python and MS SQL
+Most of my previous work was for the [USF Water Institute](https://waterinstitute.usf.edu), and can be found [here](https://github.com/USF-Water-Institute).
+
+👨🏾‍💻 Tech Stack 
+ - Current : Java, TypeScript, Python, AWS
+- Previous : C#.NET, JavaScript, Python, MS SQL and Azure
 
 😄 Pronouns:  He/Him/His
 
